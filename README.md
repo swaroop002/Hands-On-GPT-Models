@@ -1,2 +1,2 @@
 # Hands-On-GPT-Models
-Hands-on pre-trained (GenAI) models such as GPT-2, DistilBERT, DistilBART, and BERT
+The project encompasses a series of interactive code segments implemented in a Jupyter Notebook (ipynb file). Each section focuses on a specific NLP task, ranging from text generation and sentiment analysis to text summarization, named entity recognition (NER), and question answering. The project utilizes pre-trained models such as GPT-2, DistilBERT, DistilBART, and BERT, all available within the Hugging Face Transformers ecosystem.
