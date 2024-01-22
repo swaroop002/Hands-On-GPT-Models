@@ -33,3 +33,8 @@ Task: Question Answering
 Pipeline: question-answering
 Example: Answering questions based on a provided context.
 </pre>
+# Resources:
+https://huggingface.co/gpt2 <br>
+https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english <br>
+https://huggingface.co/sshleifer/distilbart-cnn-12-6 <br>
+https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english <br>
